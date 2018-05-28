@@ -1,1 +1,1 @@
-A sandbox for reading [*The Algorithm Design Manual*](http://www.algorist.com/).
+A sandbox for [*The Algorithm Design Manual*](http://www.algorist.com/).
